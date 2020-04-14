@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">InstaSample</string>
+    <string-array name="language">
+        <item>English(United Kingdom)</item>
+        <item>English(United States)</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Swahili</item>
+    </string-array>
+    <string name="hint"><font size = "13">Phone number, email address or username</font></string>
+    <string name="hintPass"><font size = "13" >Password</font></string>
+    <string name="login">Log In</string>
+    <string name="password">Forgotten your login details?</string>
+    <string name="pass1">Get help with signing in.</string>
+    <string name="fbook">Log In With Facebook</string>
+    <string name="or">OR</string>
+    <string name="account">Don\'t have an account?</string>
+    <string name="signup">Sign up.</string>
+    <string name="origin">Instagram from Facebook</string>
+</resources>
